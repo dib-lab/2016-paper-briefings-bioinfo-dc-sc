@@ -42,6 +42,16 @@
 	* Strategies 
 	
 	* Evolution - Software carpentry (older) v Data Carpentry (new) 
+		* Three iterations of software carpentry 
+			* Moving from 1 week to 2 day workshop increased participation 
+			* Obtaining grant from sloan foundation decreased focus juggling funding from different organizations 
+			* Moved toward higher level concepts 
+				* Unix shell 
+				* Programming in Pyton, R, or Matlab 
+				* Version control 
+				* More programming or databases 
+				
+			* Have outside contributions increased?  
 	
 	* Topics covered 
 	
