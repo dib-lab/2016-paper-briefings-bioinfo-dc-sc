@@ -16,7 +16,17 @@
 
 * Wilson, G. (2014). "Software Carpentry: lessons learned." F1000Res 3: 62.
 
-* Assesments from 2012 and ... (@PTB - Add years assesments)
+* Assessments -
+
+Data Carpentry 
+
+* Aranda J: Software Carpentry Assessment Report, 2012. Reference Source
+
+* Wilson GV: What should computer scientists teach to physical scientists and engineers? IEEE Computational Science and Engineering. Summer and Fall 1996; 3(2): 46–65. Publisher Full Text
+
+* Wilson G: Where’s the Real Bottleneck in Scientific Computing? Am. Sci. 2006; 94(1): 5. Publisher Full Text
+
+* Wilson G: Software carpentry: getting scientists to write better code by making them more productive. Comput Sci Eng. 2006; 8(6): 66–69. Publisher Full Text
 
 * Teal, T.K., K.A. Cranston, H. Lapp, et al. 2015. Data Carpentry: Workshops to Increase Data Literacy for Researchers. International Journal of Digital Curation. 10.
 
@@ -39,6 +49,10 @@
 * Need for training in computational biology 
 
 	* Data suggests that a lack of training, not resources, is the barrier to computation in the hands of biologists (Kumar and Dudley, 2007). 
+	* Difficulty integrating into curriculum at any level (Wilson 2016)
+		* What level? High school, undergrad, graduate school? 
+		* Who should teach? Biologists v computer scientists 
+		* What department would host this? Biologists think computer scientists and computer scientists don't believe this information warrants a credit. 
 
 * The Role of Software Carpentry and Data Carpentry in training computational biologists 
 	* What are the missions of these organizations?
@@ -60,13 +74,18 @@
 	
 	* Evolution - Software carpentry (older) v Data Carpentry (new) 
 		* Three iterations of software carpentry; started in 1998
-			* Moving from 1 week to 2 day workshop increased participation 
-			* Obtaining grant from sloan foundation decreased focus juggling funding from different organizations 
-			* Moved toward higher level concepts 
-				* Unix shell 
-				* Programming in Pyton, R, or Matlab 
-				* Version control 
-				* More programming or databases 
+			* Major obstacles to getting off the ground in iteration 1 and 2
+				* Five day workshops would not scale well. 
+				* A single instructor cannot reach enough people
+				* Cobbling together funding from mutilple sources is difficult and distracting 
+			* Some improvements in 3rd iteration 
+				* Moving from 1 week to 2 day workshop increased participation 
+				* Obtaining grant from sloan foundation decreased focus juggling funding from different organizations 
+				* Moved toward higher level concepts 
+					* Unix shell 
+					* Programming in Pyton, R, or Matlab 
+					* Version control 
+					* More programming or databases 
 				
 			* Have outside contributions increased? 
 			
