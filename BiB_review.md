@@ -16,11 +16,15 @@
 
 * Wilson, G. (2014). "Software Carpentry: lessons learned." F1000Res 3: 62.
 
-* 
+* Assesments from 2012 and ... (@PTB - Add years assesments)
+
+* Teal, T.K., K.A. Cranston, H. Lapp, et al. 2015. Data Carpentry: Workshops to Increase Data Literacy for Researchers. International Journal of Digital Curation. 10.
 
 #### Goals of review: 
 
 * To provide a summary of the state of Software Carpentry and Data Carpentry and describing their impacts on computational biology. 
+
+* Articulate the mission of each organization and strategies utilized by each. 
 
 #### Abstract
 
@@ -34,15 +38,28 @@
 
 * Need for training in computational biology 
 
+	* Data suggests that a lack of training, not resources, is the barrier to computation in the hands of biologists (Kumar and Dudley, 2007). 
+
 * The Role of Software Carpentry and Data Carpentry in training computational biologists 
 	* What are the missions of these organizations?
+		* Software carpentry - to teach computational competence - not specific tools 
+		* Data carpentry - teaching scientists basic skills for retrieving, viewing, managing, and manipulating data in an open and reproducible way
+			* Both organizations are seeking make it easier for researchers to utilize tools for data analysis and to enhance reproducibility by introducing researchers to methods for carrying this out. 
+			* Addressing the need to scale up bioinformatics training. 
+	
 	
 	* Target populations 
+		* (@ PTB - Not sure) - Researchers at all levels. The goal is cover topics required for efficient and reproducible data analysis based upon a community consensus. 
+		
+	
 	
 	* Strategies 
+		* Collaborative lesson plan development
+		* Volunteer teachers 
+		
 	
 	* Evolution - Software carpentry (older) v Data Carpentry (new) 
-		* Three iterations of software carpentry 
+		* Three iterations of software carpentry; started in 1998
 			* Moving from 1 week to 2 day workshop increased participation 
 			* Obtaining grant from sloan foundation decreased focus juggling funding from different organizations 
 			* Moved toward higher level concepts 
@@ -51,7 +68,9 @@
 				* Version control 
 				* More programming or databases 
 				
-			* Have outside contributions increased?  
+			* Have outside contributions increased? 
+			
+		* Data carpentry - Origin 2014 (@PTB verify date of origin) 
 	
 	* Topics covered 
 	
