@@ -127,4 +127,50 @@ Data Carpentry
 * Impacts on reproducibility? 
 * Evidence that either organization is enhancing the quality of research products? 
 * Do they charge participants 
-	* Software carpentry - Sometimes; 20-40$. Charging decreases no*shows from ~1/3 to ~%5. 
+	* Software carpentry - Sometimes; 20-40$. Charging decreases no*shows from ~1/3 to ~%5.
+
+## Detailed outline
+
+Proposed title 11: Training in data biology practice: Data Carpentry and Software Carpentry
+
+Proposed title 2: Learning the practice of biological data analysis through Data and Software Carpentry.
+
+Outline:
+
+Intro
+* Efficient and reproducible data analysis requires a lot of practical computational skills.
+* These skills (equivalent of “wet lab” skills) are not usually taught in biology undergrad or grad (“should be CS”, no teachers, no expertise, fast moving field, etc.)
+* Data analysis in biology (bioinformatics) is significantly about community of practice: latest tools, approaches, etc. (Salmon story?)
+* Moreover, active researchers typically want to do a bottom up approach (show me what I need to know now, I will develop perspective around it).  Also, often deep in research and not interested in a whole course; intensive workshop instead.
+* For all of these reasons, traditional curricula which focus on a theoretical introduction & grounding are a poor fit.
+* Short, intensive workshops taught by active practitioners (potentially from remote institutions) may be one way to meet this need.
+* data carpentry and software carpentry have emerged as global programs offering this.
+
+Background
+
+* outline of skills needs, coupled with software niches (R, Python, etc.)
+* fast moving data sets, etc.
+* community of practice: global tool ecosystem, blogs/social media, online
+* these needs are common to computational science => software carpentry
+* however, recognition that data == software is not immediately obvious to biologists.
+* more recently, data carpentry has emerged using similar approach and similar network of trainers
+* data carpentry is more focused on connecting between non-comp researchers and basic skills; SC is focused on sharpening and advancing people who already have skills
+* why two days, etc.
+
+A history of DC/SC
+
+What DC and SC workshops look like and how they connect to skills
+
+Assessment & impact
+
+Instructor training & instructor training report
+
+Lesson development moving forward
+
+Related courses (mine, Ethan’s)
+
+Other resources
+
+Future of SC/DC
+
+Opportunities - community development rare, open science, diversity, spread ug and postdoc, connect with industry for careers, instructor community
